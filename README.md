@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jordi and I'm a MERN Stack Developer from Egypt</h2>
+<h2 align="left">Hi 👋! My name is Jordi and I'm a MERN Stack Developer</h2>
 
 ###
 
