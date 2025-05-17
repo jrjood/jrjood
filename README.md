@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=jrjood&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" margin="30"  />
 </div>
-<br>
+<br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jrjood&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -14,7 +14,7 @@
 ###
 ###
 ###
-
+<br clear="both">
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
   <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"  />
   <div align="center">
@@ -34,7 +34,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   </div>
-  <br>
+  <be clear="both">
   <a href="https://www.facebook.com/j0rd000/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
