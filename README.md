@@ -20,8 +20,8 @@
 ###
 
 <div align="center" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
-  <img align="center" height="150" src="https://i.imgur.com/bA3Rn7E.gif"  />
-  <div align="left">
+  <img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"  />
+  <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
