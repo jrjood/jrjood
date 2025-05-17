@@ -12,7 +12,16 @@
 
 ###
 
+
+
+###
+
+<img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"  />
+
+###
+
 <div align="left">
+  <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -29,14 +38,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgur.com/bA3Rn7E.gif"  />
-
-###
-
-<div align="left">
   <a href="https://www.facebook.com/j0rd000/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
